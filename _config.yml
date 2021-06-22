@@ -75,9 +75,9 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "1000", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "8", specialCharacter: "+", info: "hours", detail: "of knowledge sharing"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "8", specialCharacter: "", info: "hours", detail: "of knowledge sharing"}
+ - {count: "10", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -90,7 +90,7 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
+eventLocationName: "Online"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
 eventStreetAddress: "22 Teatral'na St"
 eventAddressLocality: "Lviv"
