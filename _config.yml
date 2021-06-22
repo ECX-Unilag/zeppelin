@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "The Next Conference"
+title: "ECX Grand Finale – Moving Forward"
 email: "ecxuilag@gmail.com"
-description: "ECX Grand Finale description"
+description: "Engineering Career Expo is a platform established to create an environment of interaction between students and industry based personnel so as to empower them with relevant skills in the engineering field"
 baseurl: "/zeppelin"
 url: "http://ecx-unilag.github.io"
 permalink: "/blog/:title"
@@ -21,10 +21,10 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "ECX Unilag"
+organizerAlternateName: "Engineering Career Expo Unilag"
+organizerDescription: "Engineering Career Expo is a platform established to create an environment of interaction between students and industry based personnel so as to empower them with relevant skills in the engineering field"
+organizerEmail: "ecxunilag@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
@@ -56,13 +56,13 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
+heroTitle: "ECX Finale <typeout> 2021"
+eventDate: "July 15 - 17, 2021"
+typeoutTextValues: '"", "Season", "Online", "Virtual"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/#tickets", text: "Register Now"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
@@ -74,8 +74,8 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "1000", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "8", specialCharacter: "+", info: "hours", detail: "of knowledge sharing"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
