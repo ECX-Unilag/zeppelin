@@ -49,11 +49,63 @@
   video: " "
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  title: "VC/Dean Speech"
+  description: " "
+  subtype: speech
+  speakers: [7]
+  language: en
+  complexity: "Expert"
+  presentation: " "
+  video: " "
+-
+  id: 006
+  title: "Moving Forward: How do we proceed from here as students"
+  description: " "
   subtype: keynote
   speakers: [7]
   language: en
   complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  presentation: " "
+  video: " "
+-
+  id: 007
+  title: "ECX Story"
+  description: " "
+  subtype: presentation
+  speakers: [7]
+  language: en
+  complexity: "Expert"
+  presentation: " "
+  video: " "
+-
+  id: 010
+  title: "Panel"
+  description: " "
+  subtype: presentation
+  speakers: [7]
+  language: en
+  complexity: "Expert"
+  presentation: " "
+  video: " "
+-
+  id: 011
+  title: "Workshop"
+  description: " "
+  subtype: workshop
+  speakers: [7]
+  language: en
+  complexity: "Expert"
+  presentation: " "
+  video: " "
+-
+  id: 012
+  title: "Award Wall + Closing Speech"
+  description: " "
+  subtype: presentation
+  speakers: [7]
+  language: en
+  complexity: "Expert"
+  presentation: " "
+  video: " "
+
+
