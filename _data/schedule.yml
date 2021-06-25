@@ -1,20 +1,19 @@
-- 
+- 5
   date: "2021-07-15"
-  dateReadable: "July 24"
+  dateReadable: "July 14"
   tracks: 
     - {title: "Track 1", color: "#90be4e"}
-    - {title: "Track 1", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+    - {title: "Track 2", color: "#03a9f4"}
   timeslots:
     - {
     	startTime: "10:00",
     	endTime: "10:45",
-    	sessionIds: [002, 003, 004]
+    	sessionIds: [002, 003]
     }
     - {
         startTime: "11:00",
         endTime: "11:45",
-        sessionIds: [003, 404, 004]
+        sessionIds: [003, 404]
     }
     - {
     	startTime: "12:00",
@@ -23,7 +22,7 @@
     }
 - 
   date: "2021-07-16"
-  dateReadable: "July 25"
+  dateReadable: "July 15"
   tracks: 
     - {title: "Android", color: "#90be4e"}
     - {title: "Web & Cloud", color: "#03a9f4"}
