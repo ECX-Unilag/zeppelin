@@ -5,7 +5,7 @@
   service: true
   description: "The best time to talk with speakers and attendees"
 -
-  id: 999
+  id: 909
   title: "Game Night"
   place: "Online"
   service: true
@@ -16,7 +16,7 @@
   place: "Dining room"
   service: true
 -
-  id: 111
+  id: 101
   title: "Getting Started with Gatsby: Build Your First Static Site"
   description: " "
   subtype: workshop
@@ -25,7 +25,7 @@
   complexity: "Intermediate"
   video: " "
 -
-  id: 222
+  id: 202
   title: "Getting Started with Technical Writing (Documentation)"
   description: " "
   subtype: workshop
@@ -35,7 +35,7 @@
   presentation: " "
   video: " "
 -
-  id: 333
+  id: 303
   title: "Fundamentals of Digital Marketing"
   description: " "
   subtype: workshop
@@ -45,7 +45,7 @@
   presentation: " "
   video: " "
 -
-  id: 444
+  id: 404
   title: "Bots Mastery: Getting Started with Bot Development (Python)"
   description: " "
   subtype: workshop
@@ -55,7 +55,7 @@
   presentation: " "
   video: " "
 -
-  id: 555
+  id: 505
   title: "Presenting Like a Pro"
   description: " "
   subtype: workshop
@@ -65,7 +65,7 @@
   presentation: " "
   video: " "
 -
-  id: 666
+  id: 606
   title: "Craftind CV like a Pro(Jobberman/BDTD Hub)"
   description: " "
   subtype: workshop
@@ -75,7 +75,7 @@
   presentation: " "
   video: " "
 -
-  id: 777
+  id: 707
   title: "How to Create A Business Proposal"
   description: " "
   subtype: workshop
