@@ -2,60 +2,53 @@
   date: "2021-07-15"
   dateReadable: "July 15"
   tracks: 
-    - {title: "Track 1", color: "#90be4e"}
-    - {title: "Track 2", color: "#03a9f4"}
+    - {title: "Sessions", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "11:00",
-    	endTime: "11:20",
-    	sessionIds: [404, 404]
+    	startTime: "4:00",
+    	endTime: "5:00",
+    	sessionIds: [111]
     }
     - {
-        startTime: "11:20",
-        endTime: "11:30",
+        startTime: "5:00",
+        endTime: "5:15",
         sessionIds: [307]
     }
     - {
-    	startTime: "11:30",
-    	endTime: "12:05",
-    	sessionIds: [404, 404]
+    	startTime: "5:15",
+    	endTime: "6:15",
+    	sessionIds: [222]
     }
     - {
-    	startTime: "12:05",
-    	endTime: "12:10",
-    	sessionIds: [307]
+        startTime: "8:15",
+        endTime: "9:15",
+        sessionIds: [999]
     }
 - 
   date: "2021-07-16"
   dateReadable: "July 16"
   tracks: 
-    - {title: "Track 1", color: "#90be4e"}
-    - {title: "Track 2", color: "#03a9f4"}
+    - {title: "Sessions", color: "#90be4e"}
   timeslots: 
     - {
-    	startTime: "11:00",
-    	endTime: "11:20",
-    	sessionIds: [404, 404]
+    	startTime: "4:00",
+    	endTime: "5:00",
+    	sessionIds: [333]
     }
     - {
-    	startTime: "11:20",
-    	endTime: "11:30",
-    	sessionIds: [307,307]
+    	startTime: "5:00",
+    	endTime: "5:15",
+    	sessionIds: [307]
     }
     - {
-        startTime: "11:30",
-        endTime: "12:05",
-        sessionIds: [404,404]
+        startTime: "5:15",
+        endTime: "6:15",
+        sessionIds: [444]
     }
     - {
-    	startTime: "12:05",
-    	endTime: "12:15",
-    	sessionIds: [307,307]
-    }
-    - {
-    	startTime: "12:15",
-    	endTime: "1:15",
-    	sessionIds: [404,404]
+    	startTime: "8:15",
+    	endTime: "9:15",
+    	sessionIds: [999]
     }
 - 
   date: "2021-07-17"
