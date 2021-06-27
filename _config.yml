@@ -183,12 +183,13 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://ecx.org.ng", text: "Ecx}
+   - {link: "http://ecx.org.ng", text: "ECX Unilag"}
+   - {link: "https://ecx.org.ng/2020", text: "ECX Story"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:ecxunilag@gmail.com", text: "https://ecx.org.ng"}
- -
+   - {link: "mailto:ecxunilag@gmail.com", text: "Mail Us"}
+# -
   # title: "FAQ"
   # links:
   #  - {permalink: "/cod/", text: "Code of Conduct"}
