@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "ECX Grand Finale"
 email: "ecxunilag@gmail.com"
-description: "GDG DevFest is a set of events all around the world"
+description: "The Grand Finale, final chapter of ECX 2.0"
 baseurl: "/zeppelin"
 url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
