@@ -51,8 +51,8 @@ navigationLinks:
 #  - {permalink: "/hackathon/", text: "Hackathon"}
 # bottomNavigationLinks:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
-# rightNavigationButtons:
-#  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+rightNavigationButtons:
+  - {link: "https://bit.ly/ecxfinaleform", text: "Register Now"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -62,19 +62,19 @@ typeoutTextValues: '"", "Season", "Online", "Virtual"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "###", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Register Now"}
+ - {permalink: "https://bit.ly/ecxfinaleform", text: "Register Now"}
 
 # About Block
-aboutTitle: "About GRAND FINALE"
+aboutTitle: "The Event"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest ECX event, carefully planned content, amazing speakers, and epic game nights!" }
+ - {title: "Conference", image: "conference.jpg", text: "The biggest ECX event, carefully planned content, amazing speakers and schedule!" }
  - {title: "Workshops", image: "workshop.jpg", text: "From building your technical skills to learning to sell yourself, we’ve prepared 2 days of an insightful experience!" }
-#  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Games", image: "hackathon.jpg", text: "Want some win some merch every night? Grab your devices and join our epic game nights!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "1000", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "999", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "8", specialCharacter: "", info: "hours", detail: "of knowledge sharing"}
  - {count: "10", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
  - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
