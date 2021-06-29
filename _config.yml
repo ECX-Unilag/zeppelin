@@ -85,7 +85,7 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersTitle: "Featured Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
@@ -125,11 +125,11 @@ rockstarSpeakersButtonText: "See all speakers"
 # partnersTitle: "Partners"
 # partnersC4sponsorsButton: "Become a sponsor"
 
-# Subscribe Block
-# subscribeImage: "subscribe.jpg"
-# subscribeTitle: "Subscribe for updates"
-# subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-# subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+Subscribe Block
+subscribeImage: "subscribe.jpg"
+subscribeTitle: "Subscribe for updates"
+subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
 # ticketsTitle: "Pricetable"
@@ -189,10 +189,10 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "mailto:ecxunilag@gmail.com", text: "Mail Us"}
-# -
-  # title: "FAQ"
-  # links:
-  #  - {permalink: "/cod/", text: "Code of Conduct"}
+ -
+  title: "FAQ"
+  links:
+   - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 # blogTitle: "Latest news"
